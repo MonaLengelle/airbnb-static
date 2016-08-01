@@ -1,0 +1,27 @@
+/* Footer design */
+.footer-background {
+  background-color: #4F4B4B;
+  padding: 40px;
+}
+.list-inline li {
+  display: inline-block;
+}
+
+.footer-background p {
+  color: white;
+}
+#maflexbox{
+  display: flex;
+  background-color: #4F4B4B;
+  padding: 40px;
+  justify-content: space-between;
+}
+.fa {
+  color: white;
+  font-size: 30px;
+  margin-right: 10px;
+}
+
+#maflexbox {
+  color: white;
+}
